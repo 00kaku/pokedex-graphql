@@ -7,7 +7,8 @@ It is a simple pokedex application that fetches orignal 151 pokemons' data from 
 ###### Pokemon api is used for graphql queries data.
 
 #### Screenshots
-![Screenshot from 2021-02-12 02-13-25](https://user-images.githubusercontent.com/22026768/107696401-eaeb7500-6cd7-11eb-803e-300741421fde.png)
+![Screenshot from 2021-02-12 19-21-17](https://user-images.githubusercontent.com/22026768/107776382-811aac00-6d67-11eb-9a2f-337e0e5af3d0.png)
+
 
 
 #### How to use
