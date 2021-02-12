@@ -1,6 +1,6 @@
 # A simple react pokedex application using graphQl
 
-It is a simple pokedex application that fetches orignal 151 pokemons' data from a graphql api and display the name number and type of the pokemon. It is fully responsive for screen sizes.
+It is a simple pokedex application that fetches orignal 151 pokemons' data from a graphql api and display the name number and type of the pokemon. It is fully responsive for screen sizes along with pagination support.
 
 ###### ReactJs is used for UI and composiiton
 ###### Apollo client is used for graphql queries
