@@ -240,3 +240,12 @@ span.type.fairy:after {
 span.type.fairy.sm:after {
 	content: "Fai";
 }
+
+.pokemons__pagination {
+	display: flex;
+	justify-content: space-between;
+	height: 30px;
+	align-items: center;
+	margin-bottom: 4px;
+	padding: 5px;
+}
